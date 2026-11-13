@@ -63,7 +63,7 @@ HR Recommendations
 
 # 📊 Power BI Dashboard
 
-![HR Analytics Dashboard](Dashboard/HR_Analytics_Dashboard.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ### Dashboard KPIs
 
